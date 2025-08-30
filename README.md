@@ -17,6 +17,12 @@ This is a collection of projects I have completed at the University of Montana, 
       - Project Progress Report
       - Final Project Report
 
-2. **MLC Design Portfolio**
+2. **CSCI 591 Computational Cognitive Neuroscience**
+
+   Throughout CSCI 591, students learn computational neuroscience techniques and methods by applying the concepts with hands-on training and focus on 'open science' practices that enable scientists to effectively document and share their research.
+      - Final paper: Mind the Gap (In Resolution): Assessing the Impact of MRI Slice Resolution on the Clinical Applicability of Lesion Mapping Models
+      - Final presentation: Graduate Final Presentation 
+
+4. **MLC Design Portfolio**
 
    In Fall 2023, I was tasked with revamping the signage for the Math Learning Center at the University of Montana. Included      are three examples of my work for that project.
