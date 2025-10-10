@@ -1,7 +1,7 @@
 # Rebecca-Bryan-Portfolio
 This is a collection of projects I have completed at the University of Montana, either through coursework or employment at the Math learning Center. 
 
-1. **BMIS 482 Big Data Project**
+1. **BMIS 482 Big Data Project/Project Management**
 
    Throughout BMIS 482, students work in cross-disciplinary teams to complete big data projects from different disciplines,       with an  emphasis on agile project management.
    
